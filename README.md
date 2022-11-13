@@ -1,2 +1,2 @@
 # multi_label_classification
-Multi-Label Classification Problem.
+Multi-Label Classification
